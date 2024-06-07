@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Based on https://github.com/anilbeesetti/nextplayer 
+Support WebDav/Alist
+
 <!--
 **NextPlayerCloud/NextPlayerCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
