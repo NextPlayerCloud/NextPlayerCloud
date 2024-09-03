@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ### Based on https://github.com/anilbeesetti/nextplayer 
-- ⚡Support WebDav/Alist Storage
+- ⚡Support WebDav
+- ⚡Built-in Alist cloud storage service
 - ⚡Support TV
 
 <!--
