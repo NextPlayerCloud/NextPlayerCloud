@@ -4,6 +4,8 @@
 - ⚡Support WebDav
 - ⚡Built-in Alist cloud storage service
 - ⚡Support TV
+
+点击链接加入腾讯频道【Alist TV】：https://pd.qq.com/s/ay06ibn3y
 <table class="half">
     <tr>
         <td>
