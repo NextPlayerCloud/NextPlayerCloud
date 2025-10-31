@@ -2,7 +2,7 @@
 
 ### Based on https://github.com/anilbeesetti/nextplayer 
 - ⚡Support WebDav
-- ⚡Built-in Alist cloud storage service
+- ⚡Built-in OpenList cloud storage service
 - ⚡Support TV
 
   
