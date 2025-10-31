@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 ### Based on https://github.com/anilbeesetti/nextplayer 
-- ⚡Support WebDav
-- ⚡Built-in OpenList cloud storage service
-- ⚡Support TV
+- ⚡支持WebDav
+- ⚡内置OpenList云存储服务
+- ⚡支持TV
+- ⚡播放器设置支持配置加载缓冲时长
 
   
 ### 新版已由Alist更改为OpenList
