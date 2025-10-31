@@ -5,6 +5,10 @@
 - ⚡Built-in Alist cloud storage service
 - ⚡Support TV
 
+  
+### 新版已由Alist更改为OpenList
+下载链接：https://pan.quark.cn/s/a85b0b5fbee1
+
 点击链接加入腾讯频道【Alist TV】：https://pd.qq.com/s/ay06ibn3y
 <table class="half">
     <tr>
