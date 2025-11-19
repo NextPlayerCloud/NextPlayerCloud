@@ -37,7 +37,9 @@ OpenList初始账号密码：
 **密码**：`123456`  
 
   
-**下载链接** `https://pan.quark.cn/s/a85b0b5fbee1`
+**夸克下载链接** https://pan.quark.cn/s/a85b0b5fbee1
+**蓝奏下载链接** [https://pan.quark.cn/s/a85b0b5fbee1](https://wwqx.lanzoup.com/b0ukltxdc
+密码:fdtw)
 
 点击链接加入腾讯频道【Alist TV】：https://pd.qq.com/s/ay06ibn3y
 <table class="half">
