@@ -42,6 +42,8 @@ OpenList初始账号密码：
 **蓝奏下载链接** https://wwqx.lanzoup.com/b0ukltxdc
 密码:fdtw
 
+点击链接加入腾讯频道【Alist TV】：https://pd.qq.com/s/ay06ibn3y
+
 ## 赞助
 
 如果觉得此项目有用，可以考虑赞助我喝杯 ~~奶茶~~ 咖啡 ☕
@@ -57,7 +59,7 @@ OpenList初始账号密码：
 本项目不提供任何的内容资源，若出现任何内容侵权行为皆与本项目开发人员无关
 
 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关
-点击链接加入腾讯频道【Alist TV】：https://pd.qq.com/s/ay06ibn3y
+
 <table class="half">
     <!--<tr>
         <td>
