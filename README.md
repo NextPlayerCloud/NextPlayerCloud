@@ -12,8 +12,9 @@
 - 原生支持字幕自动加载、外挂字幕、播放记录等
 - 播放流视频自动缓冲左滑滑动如播放本地视频般丝滑
 - 支持自动下一集
-- 内置下载器基于youtubedl-android(Youtube、Facebook、Twitter、Instagram、Dailymotion、Vimeo 以及其他 1000 多个网站下载视频，还可以通过浏览器如 m3u8 或 mpd 链接下载所有流媒体数据，同时还能接收 mp4 流媒体视频数据)
-- 支持弹幕
+- 内置Anime4K着色器,支持实时视频超分
+- 内置下载器基于youtubedl-android(支持下载Youtube、Facebook、Twitter、Instagram、Dailymotion、Vimeo、TikTok  以及其他 1000 多个网站下载视频，支持下载m3u8,直播流
+- 支持自动匹配弹幕
 
 
 ## 快速开始
