@@ -15,6 +15,9 @@
 - 内置Anime4K着色器,支持实时视频超分
 - 内置下载器基于youtubedl-android(支持下载Youtube、Facebook、Twitter、Instagram、Dailymotion、Vimeo、TikTok  以及其他 1000 多个网站下载视频，支持下载m3u8,直播流
 - 支持自动匹配弹幕
+- 支持媒体库(Emby/jellyfin)
+- 支持DLNA投屏
+- 支持IPTV源本地与在线导入(M3U)
 
 
 ## 快速开始
