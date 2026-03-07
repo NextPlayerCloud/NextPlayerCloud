@@ -69,6 +69,18 @@ OpenList初始账号密码：
 
 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关
 
+## 感谢
+
+- [OpenList](https://github.com/OpenListTeam/OpenList)
+- [Jellyfin](https://jellyfin.org/)
+- [mpv-android](https://github.com/mpv-android)
+- [mpvKt](https://github.com/abdallahmehiz/mpvKt)
+- [mpvEx](https://github.com/marlboro-advance/mpvEx)
+- [Next player](https://github.com/anilbeesetti/nextplayer)
+- [Gramophone](https://github.com/FoedusProgramme/Gramophone)
+
+
+
 <table class="half">
     <!--<tr>
         <td>
