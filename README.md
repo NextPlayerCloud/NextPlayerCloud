@@ -78,6 +78,7 @@ OpenList初始账号密码：
 - [mpvEx](https://github.com/marlboro-advance/mpvEx)
 - [Next player](https://github.com/anilbeesetti/nextplayer)
 - [Gramophone](https://github.com/FoedusProgramme/Gramophone)
+- [APlayer](https://github.com/rRemix/APlayer)
 
 
 
