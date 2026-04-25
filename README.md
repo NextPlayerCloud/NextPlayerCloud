@@ -25,7 +25,9 @@
 </div>
 <div class="image-row" align="center">
   <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/10.jpg" width="23.5%" />
-    <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/11.jpg" width="23.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/11.jpg" width="23.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/12.jpg" width="23.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/13.jpg" width="23.5%" />
 </div>
 
 ---
