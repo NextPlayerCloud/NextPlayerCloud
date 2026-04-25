@@ -53,6 +53,7 @@
 - 本地网络支持图片预览与幻灯片(WebDav SMB FTP)
 - 本地网络支持播放Strm文件(WebDav SMB FTP)
 - 支持扫描及播放本机Strm文件
+- 支持帧插值
 
 
 
