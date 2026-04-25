@@ -8,24 +8,24 @@
 
 ## 展示图
 <div class="image-row" align="center">
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/1.png" width="98%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/1.jpg" width="98%" />
 </div>
 
 <div class="image-row" align="center" justify-content="space-between">
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/2.png" width="23.5%" />
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/3.png" width="23.5%" />
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/4.png" width="23.5%" />
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/5.png" width="23.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/2.jpg" width="23.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/3.jpg" width="23.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/4.jpg" width="23.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/5.jpg" width="23.5%" />
 </div>
 <div class="image-row" align="center" justify-content="space-between">
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/6.png" width="23.5%" />
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/7.png" width="23.5%" />
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/8.png" width="23.5%" />
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/9.png" width="23.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/6.jpg" width="23.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/7.jpg" width="23.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/8.jpg" width="23.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/9.jpg" width="23.5%" />
 </div>
 <div class="image-row" align="center">
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/10.png" width="23.5%" />
-    <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/11.png" width="23.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/10.jpg" width="23.5%" />
+    <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/11.jpg" width="23.5%" />
 </div>
 
 ---
