@@ -104,6 +104,9 @@ OpenList初始账号密码：
 
 在使用本程序之前，你应了解并承担相应的风险，包括但不限于账号被ban，下载限速等，与本程序无关
 
+## 源码
+-[源码](https://github.com/NextPlayerCloud/NeoPlayer)
+
 ## 感谢
 
 - [OpenList](https://github.com/OpenListTeam/OpenList)
