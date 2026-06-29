@@ -56,6 +56,7 @@
 - 支持扫描及播放本机Strm文件
 - 支持帧插值
 - 支持360全景VR视频
+- 支持ISO原盘视频播放(感谢FongMi湾湾老铁提供的支持)
 
 
 
@@ -118,6 +119,7 @@ OpenList初始账号密码：
 - [Next player](https://github.com/anilbeesetti/nextplayer)
 - [Gramophone](https://github.com/FoedusProgramme/Gramophone)
 - [APlayer](https://github.com/rRemix/APlayer)
+- [FongMi](https://github.com/FongMi)
 
 
 
