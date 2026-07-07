@@ -82,8 +82,13 @@ OpenList初始账号密码：
 **用户名**：`admin`  
 **密码**：`123456`  
 
-  
-**夸克下载链接** https://pan.quark.cn/s/a85b0b5fbee1
+**历史版本备用下载**
+
+***夸克盘*** [立即访问](https://pan.quark.cn/s/a85b0b5fbee1)
+
+***百度盘*** [立即访问](https://pan.baidu.com/s/1GuEgGReTWz9sQRPFNVwJ_Q?pwd=6666 )
+
+***UC盘*** [立即访问](https://drive.uc.cn/s/46847a1fcbe44?public=1)
 
 
 点击链接加入腾讯频道【Alist TV】：https://pd.qq.com/s/ay06ibn3y
