@@ -128,6 +128,7 @@ OpenList初始账号密码：
 - [Gramophone](https://github.com/FoedusProgramme/Gramophone)
 - [APlayer](https://github.com/rRemix/APlayer)
 - [FongMi](https://github.com/FongMi)
+- [mpvRx](https://github.com/Riteshp2001/mpvRx)
 
 
 
