@@ -4,6 +4,13 @@
 
 这是一个将 **OpenList** 与 **MPV 播放器**完美结合的本地播放解决方案，支持挂载各种云盘（阿里云盘、OneDrive、Google Drive、WebDAV、SMB 等），实现高速、流畅、无广告的本地化播放体验。
 
+
+
+## Download
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" height="75">](https://play.google.com/store/apps/details?id=live.alist.mpv.gp)
+
+
 ---
 
 ## 展示图
@@ -89,7 +96,7 @@ OpenList初始账号密码：
 
 **历史版本备用下载**
 
-***夸克盘*** [立即访问](https://pan.quark.cn/s/a85b0b5fbee1)
+***夸克盘*** [立即访问](https://pan.quark.cn/s/1e40a68ca19c#/list/share)
 
 ***百度盘*** [立即访问](https://pan.baidu.com/s/1GuEgGReTWz9sQRPFNVwJ_Q?pwd=6666 )
 
