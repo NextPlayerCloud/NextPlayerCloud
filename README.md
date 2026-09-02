@@ -51,7 +51,7 @@
 - 内置下载器基于youtubedl-android(支持下载Youtube、Facebook、Twitter、Instagram、Dailymotion、Vimeo、TikTok  以及其他 1000 多个网站下载视频，支持下载m3u8,直播流
 - 支持弹弹Play自动匹配弹幕(仅动漫)
 - 支持添加自建弹幕服务器接口(https://github.com/huangxd-/danmu_api) 影视剧弹幕
-- 支持视频媒体库(Emby/jellyfin)
+- 支持视频媒体库(Emby/jellyfin/Plex/飞牛影视)
 - 支持音乐媒体库(Emby/jellyfin/Plex/Subsonic/Navidrome)
 - 支持DLNA投屏
 - 支持IPTV源本地与在线导入(M3U)
@@ -69,6 +69,7 @@
 - 支持WebDav备份与同步
 - 支持视频均衡器
 - 支持HDR
+- 支持杜比
 
 
 
