@@ -37,15 +37,15 @@
   <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/13.jpg" width="23.5%" />
 </div>
 <div class="image-row" align="center">
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/14.jpg" width="32.5%" />
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/15.jpg" width="32.5%" />
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/16.jpg" width="32.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/14.png" width="32.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/15.png" width="32.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/16.png" width="32.5%" />
 </div>
 
 <div class="image-row" align="center">
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/17.jpg" width="32.5%" />
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/18.jpg" width="32.5%" />
-  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/19.jpg" width="32.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/17.png" width="32.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/18.png" width="32.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/19.png" width="32.5%" />
 </div>
 ---
 
