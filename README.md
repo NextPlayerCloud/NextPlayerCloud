@@ -36,7 +36,17 @@
   <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/12.jpg" width="23.5%" />
   <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/13.jpg" width="23.5%" />
 </div>
+<div class="image-row" align="center">
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/14.jpg" width="32.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/15.jpg" width="32.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/16.jpg" width="32.5%" />
+</div>
 
+<div class="image-row" align="center">
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/17.jpg" width="32.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/18.jpg" width="32.5%" />
+  <img src="https://raw.githubusercontent.com/NextPlayerCloud/NextPlayerCloud/main/Screenshot/19.jpg" width="32.5%" />
+</div>
 ---
 
 ## 特性亮点
@@ -51,9 +61,9 @@
 - 内置下载器基于youtubedl-android(支持下载Youtube、Facebook、Twitter、Instagram、Dailymotion、Vimeo、TikTok  以及其他 1000 多个网站下载视频，支持下载m3u8,直播流
 - 支持弹弹Play自动匹配弹幕(仅动漫)
 - 支持添加自建弹幕服务器接口(https://github.com/huangxd-/danmu_api) 影视剧弹幕
-- 支持视频媒体库(Emby/jellyfin/Plex/飞牛影视)
+- 支持视频媒体库(Emby/jellyfin/Plex/飞牛影视/绿联影视)
 - 支持音乐媒体库(Emby/jellyfin/Plex/Subsonic/Navidrome)
-- 支持DLNA投屏
+- 支持DLNA投屏&Google Cast双协议
 - 支持IPTV源本地与在线导入(M3U)
 - 支持音乐播放(均衡器，webdav协议，本地/内嵌/在线歌词，自动下载专辑和艺人封面满足基本播放需求)
 - 本地网络支持批量删除，重命名(Webdav SMB FTP)
@@ -70,6 +80,7 @@
 - 支持视频均衡器
 - 支持HDR
 - 支持杜比
+- 支持TV
 
 
 
