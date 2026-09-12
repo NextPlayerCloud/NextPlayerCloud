@@ -98,11 +98,17 @@ OpenList初始账号密码：
 1. 在 OpenList 管理面板 → 「存储」→ 「添加」
 2. 添加你的网盘（例如阿里云盘、OneDrive、Google Drive 等）
 
-### 3. 通过播放器管理OpenList
+### 3. 开启webdav管理文件的权限
 
-1. 打开OpenList 右下角 → 「添加」
+1. 在 OpenList 管理面板 → 「用户」→ 「开启登录账号webdav管理权限」
 
-**账户** `http://127.0.0.1:5244` 
+
+### 4. 通过播放器WebDav管理OpenList
+
+1. 打开NeoPlayer → 本地网络选择Webdav协议 
+
+**IP** `127.0.0.1` 
+**端口** 5244
 **用户名**：`admin`  
 **密码**：`123456`  
 
